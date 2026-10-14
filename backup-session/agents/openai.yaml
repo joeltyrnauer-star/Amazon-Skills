@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Backup"
+  short_description: "Archive sessions and resume efficiently from Drive"
+  default_prompt: "Use $backup-session to archive this session and its files to Google Drive."
